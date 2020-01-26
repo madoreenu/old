@@ -101,5 +101,6 @@ h2{
   border-radius: 20px;
 }
 .twitter-tweet{
-  text-align:center;
+  margin-right: auto;
+  margin-left: auto;
 }
