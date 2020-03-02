@@ -1,3 +1,3 @@
 # まどれーぬのサイト
-https://madoreenu.github.io/portfolio
+https://madoreenu.github.io
 ゼロから自分で作ったサイトです。本を読みながら頑張りました。たまに更新もします。
